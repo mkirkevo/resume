@@ -7,6 +7,3 @@ This might be systems, code, platform, or even brewing, all the better if it at 
 Thank you for reviewing my CV online, please reach out to me for any needs that I may fit for you.  I would be more than happy to just have a conversation.  
 
 View the PDF version within the repository to view it online within GitHub.
-
-
-getgit
